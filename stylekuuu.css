@@ -1,0 +1,28 @@
+* {
+  font-family: "poppins", sans-serif;
+}
+
+table {
+  border: black;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 20px;
+}
+tbody {
+  background-color: #e9edc9;
+  color: #40513b;
+}
+#atas {
+  background-color: #edf1d6;
+  color: #40513b;
+}
+thead {
+  background-color: #ccd5ae;
+  color: #40513b;
+}
+tfoot {
+  background-color: #edf1d6;
+  color: #40513b;
+}
