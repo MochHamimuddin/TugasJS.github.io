@@ -1,0 +1,28 @@
+* {
+  font-family: "poppins", sans-serif;
+}
+.flex-container {
+  display: flex;
+}
+.accordion-collapse {
+  border: 1px solid gray;
+}
+.flex-container > div {
+  background-color: lavender;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  border-radius: 10px;
+  font-size: medium;
+  font-weight: bold;
+  border: 2px;
+}
+.cobra {
+  color: darkturquoise;
+}
+.burung-hantu {
+  color: darkturquoise;
+}
+body {
+  background-color: lavender;
+}
